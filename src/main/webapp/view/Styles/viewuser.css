@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+body {
+  font-family: Arial, sans-serif;
+  background-color: #aef2f1;
+}
+
+form {
+  margin: 20px 0;
+}
+
+input[type="text"], input[type="password"], input[type="submit"] {
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+  background-color: #000000;
+  color: #fff;
+  cursor: pointer;
+}
+button[type="button"]{
+	background-color: #000000;
+  color: #fff;
+  cursor: pointer;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 30px 0;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #400000;
+  color: #fff;
+}

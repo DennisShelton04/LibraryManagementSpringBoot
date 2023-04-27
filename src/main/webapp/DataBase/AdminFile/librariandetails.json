@@ -1,0 +1,20 @@
+{
+    "user2": {
+        "password": "$2a$10$l7HapjcvKEtPIFsqVkmx2OJ4yGrAKa6vUFhXJcD7ZSC9.JVjS1.iW",
+        "roles": "ROLE_USER",
+        "username": "user2",
+        "useremail": "ddsamazon83@gmail.com"
+    },
+    "admin": {
+        "password": "$2a$10$NoXIq3Yz8NUTLBBfl00rUuhTKgs1lrFoZYy\/..fsaua.4zWm1c0jS",
+        "roles": "ROLE_ADMIN",
+        "username": "admin",
+        "useremail": "librarymanagementtry@gmail.com"
+    },
+    "user": {
+        "password": "$2a$10$\/D30Nrwjg2mGT4zWpLM5m.xpLtGnkP7Qj.x7XT\/lMoXgKchEr\/G1e",
+        "roles": "ROLE_USER",
+        "username": "user",
+        "useremail": "dennisshelton118@gmail.com"
+    }
+}
